@@ -1,0 +1,78 @@
+"* 2 FETCH (UID 70 RFC822.HEADER {3113}
+Return-path: <testtestov101@mail.ru>
+Received: from [94.247.128.133] (ident=mail)
+        by f313.i.mail.ru with local (envelope-from <testtestov101@mail.ru>)
+        id 1XidnM-0006Mx-5T
+        for testov-79@mail.ru; Mon, 27 Oct 2014 09:28:49 +0300
+X-ResentFrom: <testtestov101@mail.ru>
+X-Received: from mail.rambler.ru
+Received: from mail.rambler.ru
+        by rpf5.mail.ru with POP3 (11492)
+        Thu, 04 Oct 2012 16:59:21 +0000 (GMT)
+X-Received: from [10.8.2.9] (HELO mx9.rambler.ru)
+Received: from [10.8.2.9] (HELO mx9.rambler.ru)
+  by mail45.rambler.ru (rmaild SMTP 1.2.41)
+  with ESMTP id 57654487 for kostia_4@rambler.ru; Thu, 04 Oct 2012 01:08:25 +0400
+X-Received: from f361.mail.ru (f361.mail.ru [217.69.141.3])
+Received: from f361.mail.ru (f361.mail.ru [217.69.141.3])
+        by mx9.rambler.ru (Postfix) with ESMTP id DA363273006
+        for <kostia_4@rambler.ru>; Thu,  4 Oct 2012 01:08:23 +0400 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail;
+
+        h=Content-Type:Message-ID:Reply-To:In-Reply-To:References:Date:Mime-Version:Subject:Cc:To:From; bh=xdNp/DTWMa8HyqgaWZNhPpJ3p98mB99qvWfrHQ/ax6c=;
+        b=uV0lAwFbfMeXzrGpDjJTUebcS3+8YpnBp14Z4fGI5fTN1BGGajYLNs3gv++6zhKQb0CPLnEoviPD2ZUS+/QcIpGy4pO2kFrAgQjxVU5W781rnvJ9N37r8XPwynBJUosj;
+X-Received: from mail by f361.mail.ru with local (envelope-from <bo_darmenova@mail.ru>)
+Received: from mail by f361.mail.ru with local (envelope-from <bo_darmenova@mail.ru>)
+        id 1TJWAw-0005IB-Rt; Thu, 04 Oct 2012 01:08:15 +0400
+X-Received: from [178.88.38.148] by e.mail.ru with HTTP;
+Received: from [178.88.38.148] by e.mail.ru with HTTP;
+        Thu, 04 Oct 2012 01:08:14 +0400
+From: =?UTF-8?B?Qm90YWdveiBEYXJtZW5vdmE=?= <bo_darmenova@mail.ru>
+To: =?UTF-8?B?0JjQvdC90LAg0JvQsNC/0YLQtdCy0LAgPGlubmEwMDAwLjg4QG1haWwucnU+?=
+ =?UTF-8?B?LCDQmNGA0LjQvdCw?= <redfairy@mail.ru>
+Cc: ulu2007@yandex.kz,
+        formagey81@mail.ru,
+        renatalisa@mail.ru,
+        natasha_shkh@mail.ru,
+        sokolova_nm@mail.ru,
+        m_voos@mail.ru,
+        mazhitova_l@mail.ru,
+
+        sla36@mail.ru,
+        kostia_4@rambler.ru,
+        galym.akishev@gmail.com,
+        victoria_kon@mail.ru,
+        bakhytzhan61@mail.ru,
+        berdin007@mail.ru,
+        stolyarv@yahoo.com,
+        anya.ruzanova@gmail.com,
+        a.kanguzhin@gmail.com,
+        bekkain@gmail.com,
+        aida.estebesova@gmail.com,
+        aaliyassova@gmail.com,
+        etleuberdina@mail.ru,
+        suvorova27@mail.ru
+Subject: =?UTF-8?B?UmU6INGA0LXRgtGA0LjRgiDQsiDQndC+0LLQvtGB0LjQsdC40YDRgdC60LU=?=
+Mime-Version: 1.0
+X-Mailer: mPOP Web-Mail 2.19
+X-Originating-IP: [178.88.38.148]
+Date: Thu, 04 Oct 2012 01:08:14 +0400
+References: <1348810616.749187774@f212.mail.ru>
+In-Reply-To: <1348810616.749187774@f212.mail.ru>
+Reply-To: =?UTF-8?B?Qm90YWdveiBEYXJtZW5vdmE=?= <bo_darmenova@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1349298494.439287148@f361.mail.ru>
+Content-Type: multipart/alternative;
+        boundary="--ALT--ZMoGxPEc1349298494"
+X-Spam: Not detected
+X-Mras: Ok
+Received: from [94.247.128.133] by e.mail.ru with HTTP;
+        Mon, 27 Oct 2014 09:28:48 +0300
+
+ReSent-To: =?UTF-8?B?dGVzdG92LTc5?= <testov-79@mail.ru>
+ReSent-From: =?UTF-8?B?0KLQtdGB0YIg0KLQtdGB0YLQvtCy?= <testtestov101@mail.ru>
+X-Mras: Ok
+
+)
+IMAP4rev1 OK FETCH done
+"
