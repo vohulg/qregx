@@ -47,16 +47,6 @@
      <string>Жадность</string>
     </property>
    </widget>
-   <widget class="QTextBrowser" name="result">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>350</y>
-      <width>471</width>
-      <height>181</height>
-     </rect>
-    </property>
-   </widget>
    <widget class="QTextBrowser" name="replace">
     <property name="geometry">
      <rect>
@@ -67,7 +57,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="butFind">
     <property name="geometry">
      <rect>
       <x>390</x>
@@ -80,6 +70,29 @@
      <string>Искать</string>
     </property>
    </widget>
+   <widget class="QListWidget" name="lwResult">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>351</y>
+      <width>441</width>
+      <height>181</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="butReadLine">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>300</y>
+      <width>91</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Читать строку</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
@@ -87,7 +100,7 @@
      <x>0</x>
      <y>0</y>
      <width>918</width>
-     <height>21</height>
+     <height>18</height>
     </rect>
    </property>
   </widget>
